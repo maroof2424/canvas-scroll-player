@@ -10,7 +10,7 @@
 
 ```html
 <!-- CSS (Style for CanvasScrollPlayer) -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/maroof2424/canvas-scroll-player/canvasScrollPlayer.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/maroof2424/Canvas-scroll-player/canvasScrollPlayer.min.css">
 
 <!-- JavaScript (Main Library) -->
 <script src="https://cdn.jsdelivr.net/gh/maroof2424/canvas-scroll-player/canvasScrollPlayer.min.js"></script>
@@ -29,7 +29,7 @@
   <title>CanvasScrollPlayer Demo</title>
 
   <!-- CanvasScrollPlayer CSS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/maroof2424/canvas-scroll-player/canvasScrollPlayer.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/maroof2424/Canvas-scroll-player/canvasScrollPlayer.min.css">
   <!-- GSAP CDN -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
