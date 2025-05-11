@@ -29,8 +29,7 @@
   <title>CanvasScrollPlayer Demo</title>
 
   <!-- CanvasScrollPlayer CSS -->
-  <link rel="stylesheet" href="CanvasScrollPlayer.min.css">
-
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/maroof2424/canvas-scroll-player/canvasScrollPlayer.min.css">
   <!-- GSAP CDN -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
@@ -41,7 +40,8 @@
   </div>
 
   <!-- Your CanvasScrollPlayer JS -->
-  <script src="CanvasScrollPlayer.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/maroof2424/canvas-scroll-player/canvasScrollPlayer.min.js"></script>
+
 
   <script>
     // Initialize CanvasScrollPlayer
