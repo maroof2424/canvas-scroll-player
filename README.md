@@ -4,6 +4,21 @@
 
 ---
 
+## ✅ How to Use CanvasScrollPlayer via CDN
+
+### 📁 CDN Links
+
+```html
+<!-- CSS (Style for CanvasScrollPlayer) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/maroof2424/canvas-scroll-player/canvasScrollPlayer.min.css">
+
+<!-- JavaScript (Main Library) -->
+<script src="https://cdn.jsdelivr.net/gh/maroof2424/canvas-scroll-player/canvasScrollPlayer.min.js"></script>
+```
+
+---
+---
+
 ### 🚀 **Live Demo**
 
 ```html
